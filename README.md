@@ -29,27 +29,30 @@ Data-Types-in-C++
 
 ### **ALGORITHM**
 
-Integer Types:
+*Integer Types*:
 
-int: Represents signed integers (usually 4 bytes).
-short: Represents short integers (usually 2 bytes).
-long: Represents long integers (size varies by system).
-long long: Represents very long integers (usually 8 bytes).
-unsigned int: Represents unsigned integers (no negative values).
-char: Represents a single character (usually 1 byte).
-bool: Represents a boolean value (either true or false).
-Floating-Point Types:
+- int: Represents signed integers (usually 4 bytes).
+- short: Represents short integers (usually 2 bytes).
+- long: Represents long integers (size varies by system).
+- long long: Represents very long integers (usually 8 bytes).
+- unsigned int: Represents unsigned integers (no negative values).
+- char: Represents a single character (usually 1 byte).
+- bool: Represents a boolean value (either true or false).
 
-float: Represents single-precision floating-point numbers.
-double: Represents double-precision floating-point numbers (more precision than float).
-long double: Represents extended-precision floating-point numbers (size varies by system).
-Other Built-in Types:
+*Floating-Point Types*:
 
-void: Represents the absence of a type. Used in function return types and pointers.
-wchar_t: Represents wide characters (used for internationalization).
-char16_t and char32_t: Represents characters of specific sizes for Unicode support.
-User-Defined Types:
+- float: Represents single-precision floating-point numbers.
+- double: Represents double-precision floating-point numbers (more precision than float).
+- long double: Represents extended-precision floating-point numbers (size varies by system).
+  
+*Other Built-in Types*:
 
-struct: Defines a composite data type containing variables (members).
-class: Defines a composite data type with additional features like encapsulation and access control.
-enum: Defines an enumeration type with named values.
+- void: Represents the absence of a type. Used in function return types and pointers.
+- wchar_t: Represents wide characters (used for internationalization).
+- char16_t and char32_t: Represents characters of specific sizes for Unicode support.
+  
+*User-Defined Types*:
+
+- struct: Defines a composite data type containing variables (members).
+- class: Defines a composite data type with additional features like encapsulation and access control.
+- enum: Defines an enumeration type with named values.
