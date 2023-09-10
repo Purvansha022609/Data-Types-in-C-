@@ -23,7 +23,7 @@ Data-Types-in-C++
 
 + Class
 + Structure
-+Union
++ Union
 + Enumeration
 + Typedef defined Datatype
 
@@ -63,7 +63,8 @@ Data Type is the kind or form of a variable which is being used throughout the p
 ![datatypes](https://github.com/Purvansha022609/Data-Types-in-C-/assets/139473344/8db9442d-19bf-4918-9790-23d305f7188a)
 
 - Image color Output
-  ![image colour](https://github.com/Purvansha022609/Data-Types-in-C-/assets/139473344/0edfb7e8-ee6d-4400-a8c3-011f7e2f4b28)
+  
+![image colour](https://github.com/Purvansha022609/Data-Types-in-C-/assets/139473344/0edfb7e8-ee6d-4400-a8c3-011f7e2f4b28)
 
 
 # **AIM**
